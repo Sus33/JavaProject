@@ -1,0 +1,72 @@
+a:hover, a:focus, .boxed-menu .topbar i, .home-feature .feature_single .icon, .more-feature-left .feature-icon, .countup-section .counter, .countup-section span.count, .services-area .media-box .media-icon, .services2 .media-box .media-icon, .card .card-title:hover, .team-card a.overlay_icon:hover i.fa, .links li a:hover, .links li a:hover:before, .bredcrumb .pager.middle a, .project-details .styled_list i, .member_desc li i, .page-error .error h1, .page-contactus .contact_sidebar .media-icon, .service_single-area .service_details-desc ul.styled_list i, .footer .social-icons .btn-social-o:hover, .copyright p a:hover, .location ul li a:hover, .comment_title .btn, .element-sidenav .nav-item.active > a.nav-link, .selectOptions .sbOptions a:hover, .btn-primary-outlined, .element-sidenav .nav-item > a.nav-link:hover, .icon-left .card-header.header-inverse a, form.register .btn-link, ul.nav .nav-item.active .nav-link, .pricing_image-card .circle span.price, .pricing .circle .price, i.overlay-icon, .icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa, .slider-caption .caption-content i.play-icon {
+    color: #4ac8ed
+}
+
+.text-primary, a.text-primary:focus, a.text-primary:hover {
+    color: #4ac8ed !important
+}
+
+.btn-primary, ::-moz-selection, .badge-primary, .slick-dots li.slick-active button, #banner-slider .slick-dots li button, .img_overlay-container a.icon:hover, .member_contact .social-icons .btn:hover, .page-comingsoon .count-down .tab-val, .list-group-item.active, .pricing-area .pricing:hover .btn, .card.card-style2:hover .card-block:before, .card.card-style3:hover .card-block:before, .blog-classic .card.card-style2 .card-block h4:before, .blog-classic .card.card-style2 .card-block .btn:hover, .page-item.active a.page-link, .page-item:hover a.page-link, .blog-sidebar .tags .btn:hover, .social-share ul.social-icons li a.btn-social:hover, .btn-primary-outlined:hover, .btn-primary-outlined:focus, .btn-primary-outlined.active, .btn-primary-outlined:active, .collapse-card .card-header a, .radio-custom:checked + .radio-custom-label:before, .checkbox-custom:checked + .checkbox-custom-label:before, ul.nav-tabs.no-bg .nav-item .nav-link.active, ul.nav-tabs.nav-pills .nav-item .nav-link.active, .pricing.delux .card-header, .pricing_image-card .btn:hover, .pricing .btn:hover, .arrow-shade button.slick-arrow:hover, .arrow-shade button.slick-arrow:focus, .slick-dots li button, .quick-view-bullets li.active a span {
+    background-color: #4ac8ed
+}
+
+.btn-primary, ::selection, .badge-primary, .slick-dots li.slick-active button, #banner-slider .slick-dots li button, .img_overlay-container a.icon:hover, .member_contact .social-icons .btn:hover, .page-comingsoon .count-down .tab-val, .list-group-item.active, .pricing-area .pricing:hover .btn, .card.card-style2:hover .card-block:before, .card.card-style3:hover .card-block:before, .blog-classic .card.card-style2 .card-block h4:before, .blog-classic .card.card-style2 .card-block .btn:hover, .page-item.active a.page-link, .page-item:hover a.page-link, .blog-sidebar .tags .btn:hover, .social-share ul.social-icons li a.btn-social:hover, .btn-primary-outlined:hover, .btn-primary-outlined:focus, .btn-primary-outlined.active, .btn-primary-outlined:active, .collapse-card .card-header a, .radio-custom:checked + .radio-custom-label:before, .checkbox-custom:checked + .checkbox-custom-label:before, ul.nav-tabs.no-bg .nav-item .nav-link.active, ul.nav-tabs.nav-pills .nav-item .nav-link.active, .pricing.delux .card-header, .pricing_image-card .btn:hover, .pricing .btn:hover, .arrow-shade button.slick-arrow:hover, .arrow-shade button.slick-arrow:focus, .slick-dots li button, .quick-view-bullets li.active a span {
+    background-color: #4ac8ed
+}
+
+.carousel-indicators li.active {
+    background-color: #4ac8ed !important
+}
+
+.fancybox-morphing .fancybox-bg, .morphing-btn-clone {
+    background-color: #4ac8ed
+}
+
+.bg-primary, .btn-primary:hover, .btn-primary:focus, .btn-primary.active, .btn-primary:active {
+    background-color: #4ac8ed !important
+}
+
+.hover-overlay.effect-transformY {
+    background-color: rgba(74, 200, 237, .8)
+}
+
+input.form-control:focus, textarea.form-control:focus, input.form-control.active, input.form-control:active, .img_overlay-container a.icon:hover, .page-comingsoon .count-down .tab-val, #banner-slider .slick-dots li button, .list-group-item.active, .services2 .more-feature-left .more-features .overlay-box, .pricing-area .pricing:hover .btn, .member_contact .social-icons .btn:hover, .blog-classic .card.card-style2 .card-block .btn:hover, .page-item.active a.page-link, .page-item:hover a.page-link, .blog-sidebar .tags .btn:hover, .social-share ul.social-icons li a.btn-social:hover, p.devider.devider_primary, .btn-primary-outlined, .btn-primary-outlined:hover, .btn-primary-outlined:focus, .btn-primary-outlined.active, .btn-primary-outlined:active, .collapse-card .card-header a, .icon-left .card-header.header-inverse a, ul.nav-tabs.no-bg .nav-item .nav-link.active, ul.nav-tabs.nav-pills .nav-item .nav-link.active, .pricing_image-card .btn:hover, .pricing .btn:hover, .icon_tabs .nav-item a.nav-link:hover:before, .icon_tabs .nav-item a.nav-link.active:before, .arrow-shade button.slick-arrow:hover, .arrow-shade button.slick-arrow:focus, .slick-dots li button {
+    border-color: #4ac8ed
+}
+
+.carousel-indicators li.active {
+    border-color: #4ac8ed !important
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-primary.active, .btn-primary:active {
+    border-color: #4ac8ed !important
+}
+
+.btn-group .btn-primary:before {
+    border-color: #1cbae8
+}
+
+.date-holder::after {
+    border-left: 15px solid #4ac8ed
+}
+
+.blockquote {
+    border-left: 3px solid #4ac8ed !important
+}
+
+.blockquote.text-right {
+    border-right: 3px solid #4ac8ed;
+    border-left: 1px solid #e5e5e5
+}
+
+ul.nav-tabs .nav-item .nav-link.active {
+    border-top-color: #4ac8ed
+}
+
+.seperator svg.seperator-icon, .navbar-brand .logo-path-2, .footer-logo .logo-path-2 {
+    fill: #4ac8ed
+}
+
+.seperator:before, .seperator:after {
+    border-color: #4ac8ed
+}
